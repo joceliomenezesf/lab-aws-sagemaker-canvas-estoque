@@ -34,6 +34,6 @@ O modelo em questão performa bem e é confiável para auxiliar na tomada de dec
 -   Confiança na margem de erro: oferece alta confiança na definição dos níveis de reabastecimento e permite que definir o estoque de segurança (buffer) de forma mais enxuta, liberando capital de giro.
 -   Vantagem competitiva: O método de previsão é estatisticamente muito superior às abordagens baseadas em regras simples ou médias históricas, tornando um diferencial competitivo no planejamento e garantindo que as decisões de compra sejam baseadas em uma estimativa de demanda de alta qualidade.
 
-Em resumo, o modelo testado é um ativo valioso que deve ser implantado para automatizar as decisões de reabastecimento e otimizar o capital alocado nos estoques.
+Em resumo, o modelo testado é um ativo valioso que pode ser implantado para automatizar as decisões de reabastecimento e otimizar o capital alocado nos estoques.
 
 
